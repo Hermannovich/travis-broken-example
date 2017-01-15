@@ -1,1 +1,1 @@
-Travis CI tester. With Failed.
+Travis CI tester. With Success.
